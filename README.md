@@ -19,3 +19,5 @@ I have used google colab for doing my task
 1: I have installed some libraries
 2: code
 3: Output
+#OUTPUT#
+![Image](https://github.com/user-attachments/assets/f9533fa6-4024-4e4e-8146-a36090fb1c06)
